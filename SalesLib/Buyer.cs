@@ -6,7 +6,7 @@ using System.Threading.Tasks;
 
 namespace SalesLib
 {
-    class Buyer
+    public class Buyer
     {
         public uint Id { get; set; }
         public string Name { get; set; }
